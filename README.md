@@ -1,27 +1,29 @@
-# Calculadora
+<h1 align="center">Calculadora :1234:</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
+<p align="center">
+<a href="https://cli.angular.io/"><img src="https://img.shields.io/badge/angular-CLI-red"></a>
+<a href="https://getbootstrap.com/docs/3.4/"><img src="https://img.shields.io/badge/bootstrap-v3.4.1-blueviolet"></a>
+  <a href="https://github.com/PauloAlves8039/calculadora-angular/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-%2376EE00"></a>
+</p>
 
-## Development server
+## :computer: Projeto
+Aplicação web para simular a utilização de uma calculadora desenvolvida com Angular CLI, projeto teve seu código fonte com base no curso [Formação Angular 10 - O início criando 7 projetos](https://www.udemy.com/course/formacao-angular-inicio-criando-7-projetos/).  
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## :wrench: Recursos Utilizados
+- [Visual Studio Code v1.48.0](https://code.visualstudio.com/).
+- [Angular CLI v10.0.5](https://cli.angular.io/).
+- [Bootstrap v3.4.1](https://getbootstrap.com/docs/3.4/).
 
-## Code scaffolding
+## :floppy_disk: Clonar Repositório
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+```git clone https://github.com/PauloAlves8039/calculadora-angular.git```
 
-## Build
+## :camera: Screenshot
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+<p align="center"> <img src="https://github.com/PauloAlves8039/calculadora-angular/blob/master/src/assets/screenshot.jpg" alt="Calculadora" /> </p>
 
-## Running unit tests
+## :pencil: Licença
+Esse projeto está sob a licença [MIT](https://github.com/PauloAlves8039/calculadora-angular/blob/master/LICENSE.md)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Author
+:boy: [Paulo Alves](https://github.com/PauloAlves8039)
